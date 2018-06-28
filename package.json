@@ -1,5 +1,5 @@
 {
-  "name": "chetan_demoModule",
+  "name": "chetan-demoModule",
   "version": "1.0.0",
   "description": "A test module",
   "main": "lib/index.js",
